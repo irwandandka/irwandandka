@@ -29,4 +29,4 @@
 - 🐦 [Twitter](https://twitter.com/[username])
 
 ---
-⭐️ Don't forget to star some of my repositories! ⭐️
+⭐️ Don't forget to star some of my repositories! ⭐️.
