@@ -16,6 +16,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwandandka&theme=tokyonight" alt="GitHub Streak">
 </p>
 
+### My WakaTime Stats
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=irwandandka)
+
 ## 🛠️ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
