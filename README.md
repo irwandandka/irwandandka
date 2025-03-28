@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Irwanda Andika Putra</h1>
 
 <p align="center">
-  <img src="https://trianglify.io/p/w:1440!h:900!x:Greys!v:0.957!c:0.121!s:djh0t!f:sp!i:0.30" alt="GitHub Banner">
+  <img src="https://storage-r2.irwandandka.my.id/cool-background%20(3).png" alt="GitHub Banner">
 </p>
 
 ## 🚀 About Me
