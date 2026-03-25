@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Irwanda Andika Putra</h1>
 
 <p align="center">
-  <img src="https://storage-r2.irwandandka.my.id/cool-background%20(3).png" alt="GitHub Banner">
+  <img src="https://storage-r2.irwandandka.my.id/image-overlay.png" alt="GitHub Banner">
 </p>
 
 ## 🚀 About Me
