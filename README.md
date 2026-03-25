@@ -32,8 +32,7 @@
 
 ## 📫 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/irwanda-andika-putra-4911871ba)
-- 🌐 [Website/Portfolio](https://apilaravel.irwandandka.my.id)
-- 🐦 [Twitter](https://twitter.com/[username])
+- 🌐 [Website/Portfolio](https://portfolio.irwandandka.my.id)
 
 ---
 ⭐️ Don't forget to star some of my repositories! ⭐️.
